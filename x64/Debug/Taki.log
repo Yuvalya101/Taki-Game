@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\yuval\source\repos\Taki\Source.c(59,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yuval\source\repos\Taki\Source.c(128,23): warning C4020: 'connvert': too many actual parameters
+C:\Users\yuval\source\repos\Taki\Source.c(212,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\yuval\source\repos\Taki\Source.c(732): warning C4715: 'selectCard': not all control paths return a value
+  Taki.vcxproj -> C:\Users\yuval\source\repos\Taki\x64\Debug\Taki.exe

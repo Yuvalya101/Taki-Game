@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Taki", "Taki.vcxproj", "{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Debug|x64.ActiveCfg = Debug|x64
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Debug|x64.Build.0 = Debug|x64
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Debug|x86.Build.0 = Debug|Win32
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Release|x64.ActiveCfg = Release|x64
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Release|x64.Build.0 = Release|x64
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Release|x86.ActiveCfg = Release|Win32
+		{FDCEB67B-B97A-4EAB-B77F-7131075E80EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15286F37-B554-4432-8C4B-73379F24D907}
+	EndGlobalSection
+EndGlobal
